@@ -9,7 +9,7 @@
 
 - The [GitLab value](https://handbook.gitlab.com/handbook/values/) that resonates with me the most is [🤝 Collaboration](https://handbook.gitlab.com/handbook/values/#collaboration) — although [it's impossible to know everything](https://handbook.gitlab.com/handbook/values/#its-impossible-to-know-everything), I believe we can always learn from each other!
 
-- You can check out [my CV](https://emchang.gitlab.io/) for a full overview of my professional career and/or [connect with me on LinkedIn](https://www.linkedin.com/in/memilyc/).
+- You can check out [my CV](https://memilyc.github.io/) for a full overview of my professional career and/or [connect with me on LinkedIn](https://www.linkedin.com/in/memilyc/).
 
 ## 🤝 How you can help me
 
