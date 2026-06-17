@@ -4,11 +4,7 @@
 
 - I go by the name "Em" or "Emily" and my home is 20 minutes away from the bustling city of Kuala Lumpur, Malaysia. 
    - I love travelling and exploring new places. 
-   - I also enjoy playing board games and online games, here is the [list of online multiplayer games](https://docs.google.com/spreadsheets/d/1G9I_Ksebaw8E-68Lf72zL3SRqJUcVt3BMFZzbNuuu5k/edit#gid=0) for team building (Internal only). 
    - Lately, I'm [learning the Japanese language](https://www.duolingo.com/profile/memilyc). 
-
-- The [GitLab value](https://handbook.gitlab.com/handbook/values/) that resonates with me the most is [🤝 Collaboration](https://handbook.gitlab.com/handbook/values/#collaboration) — although [it's impossible to know everything](https://handbook.gitlab.com/handbook/values/#its-impossible-to-know-everything), I believe we can always learn from each other!
-
 - You can check out [my CV](https://memilyc.github.io/) for a full overview of my professional career and/or [connect with me on LinkedIn](https://www.linkedin.com/in/memilyc/).
 
 ## 🤝 How you can help me
@@ -35,9 +31,8 @@
 
 - When I work from home, I start my work day from 1AM UTC to 10AM UTC. When travelling, I typically start my work day early in the morning around 11PM UTC, where I catch up with emails and Slack messages and respond to urgent tickets. Then, I continue for deep work from 7AM – 12PM UTC.
 - I am open for pairings at any free slot in my calendar where the location is `Home`. 
-- I check my Slack and email throughout my working day. Please note that I have desktop notifications turned off when I'm in a meeting. 
-- Slack Channels I visit very often: `#support_gitlab-com`, `#support_self-managed`, `#support_team-chat`, `#support_watercooler`, `#apac`, `#women`, `#allcaps`
-
+- I check my Slack and email throughout my working day. Please note that I have desktop notifications turned off when I'm in a meeting.
+  
 
 ## 💪 Strengths
 
@@ -68,10 +63,6 @@
 
 <div align='center'>
 
-Thanks for Reading and Feel Free to Connect with Me: 
+Thanks for Reading!
 
-<a href="https://www.linkedin.com/in/memilyc">
-<img src="https://gitlab.com/emchang/emchang/-/raw/main/rss/5282542_linkedin_network_social_network_linkedin_logo_icon.png" width=30px">
-</a>
-&nbsp;&nbsp;
 </div>
